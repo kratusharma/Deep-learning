@@ -25,10 +25,9 @@ Noise  |  Flip-up |  Change brightness
 | ------------- | ------------- |  ------------- |
 | Python | >= 3.5  | Yes    |
 | Numpy  | >= 1.13 |    Yes     |
-| opencv-python| >= 3.4.2.17  | Yes
-| os  | -  |Yes |
-| logging  | -  |Yes |
+| opencv-python| >= 3.4.2.17  | Yes |
 | imageio  | >= 2.9.0  |Yes |
+
 
 
 
